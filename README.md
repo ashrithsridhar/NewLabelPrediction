@@ -86,12 +86,12 @@ The implementation consists of the following steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/ashrithsridhar/NewLabelPrediction.git
+    git clone https://github.com/ashrithsridhar/NewsLabelPrediction.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd NewLabelPrediction
+    cd NewsLabelPrediction
     ```
 
 3. Open the Jupyter Notebook:
